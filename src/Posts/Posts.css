@@ -1,0 +1,12 @@
+.post {
+  background-color: red;
+  padding: 1em;
+  border-radius: 20px;
+  background-color: white;
+  margin-bottom: 2em;
+  max-width: 320px;
+  overflow: hidden;
+}
+.post-text {
+  margin-bottom: 1em;
+}
