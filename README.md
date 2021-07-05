@@ -1,6 +1,8 @@
 
 A simple social media post creating module where a user can create and add posts to his wall. 
+
 User can add GIFs to a post.
+
 GIFs are fetched through the GIPHY API endpoint.
 
 
