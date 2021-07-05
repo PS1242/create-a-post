@@ -6,6 +6,8 @@ User can add GIFs to a post.
 GIFs are fetched through the GIPHY API endpoint.
 
 
+
+
 1. Post creating Page: 
 
 ![2](https://user-images.githubusercontent.com/60357242/124449985-9db09280-dda1-11eb-9fa9-1afeea78379f.png)
